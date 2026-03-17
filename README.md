@@ -1,8 +1,12 @@
 Hi 🙋🏼‍♂️
 
-I am CTO at Kidium & Backend Team Lead 👨🏼‍💻
+I am co-founder and CTO of
 
-I know JS, Ruby & Java 🤔
+- https://saguaro.com.ua
+- https://kidium.com.ua
+- easy crm is coming soon...
+
+I know JS, Ruby & Java 🤔 ...
 
 If you have an idea about a potential startup that solves customer's problems - text me.
 
